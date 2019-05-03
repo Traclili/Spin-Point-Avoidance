@@ -1,0 +1,26 @@
+This privacy policy applies to the currently available spin point avoidance application version in the App Store, as shown in the link below. This policy does not apply to clones that have been avoided by spindles that have been customized by other developers. If you have any questions, make sure you are using the official version of the application from the app store link here.
+
+The data collection
+
+Developers who avoid spinning-point applications do not collect any data from users.
+
+
+Data sharing
+
+The application does not share any user data with third parties and the developer does not have access to any data.
+
+Data retention
+
+Use this application without retaining any data.
+
+When the application is removed from the device, all data stored locally on the device and user preferences are deleted. This data may still exist in any old copies of your personal device backups, which you can remove as needed.
+
+To delete a specific previous selection from the device, navigate to the previous choices list (select ->+->Recent), and then swipe right to left on the table row that contains the selection to delete.
+
+If you have any questions, concerns, or requests for data, you can open a problem tracker for the project on GitHub.
+
+Update this privacy policy
+
+Sometimes, you might add additional functionality to your application that requires you to update your privacy policy. An example (hypothetical and currently unplanned) of such an update might be a cross-device synchronization of the previously selected list. A possible implementation of this feature would require sending your previously selected data over the network to a central location where each of your devices will download the data.
+
+Privacy policy should be greatly changed due to the need for new features, the maintainer of the spin-point-avoidance app will update the privacy policy and release the new version of the app store, and publish the new version of the app with the change of the release instructions.
